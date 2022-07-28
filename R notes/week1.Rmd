@@ -1,0 +1,18 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Week 1 - R notes
+
+## Regression specification:
+
+![](Desktop/Screen%20Shot%202022-07-28%20at%206.01.51%20pm.png)
+
+## To iteratively building models:
+
+![](Desktop/Screen%20Shot%202022-07-28%20at%205.59.11%20pm.png)
+
+```{r}
+print("1")
+```
